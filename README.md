@@ -16,5 +16,5 @@ https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/?view=net-maui
 
 Your app should be done before January 5 11:59 PM 
 
-On January 6 we will compare look at everyone's final product in both an android and ios emulator
+On January 6 we will look at everyone's final product in both an android and ios emulator
 
